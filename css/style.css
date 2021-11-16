@@ -1,0 +1,10 @@
+.container-block{
+    width: 536px;
+    background: lightblue;
+}
+.text-block{
+    display: inline-block;
+    width: 260px;
+    background: yellow;
+    vertical-align: middle;
+}
